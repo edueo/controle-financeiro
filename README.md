@@ -31,3 +31,15 @@ Obs: Caso seu virtualenv tenha outro nome, altere para o nome correto no arquivo
 
 - ASDF
 - [autoenv](https://jay.gooby.org/2023/06/13/asdf-python-and-automatically-enabling-virtual-envshttps://jay.gooby.org/2023/06/13/asdf-python-and-automatically-enabling-virtual-envs)
+
+
+## teste mermaid
+
+graph LR 
+    A{Do you know how to write great PHP code?} --> B[No]
+    A --> C[Yes] 
+    C --> E(Awesome!) 
+    B --> D{Did you read Clean Code in PHP?} --> F[No] 
+    D --> G[Yes] 
+    G --> H(Please read it again) 
+    F --> I(Please read it)
