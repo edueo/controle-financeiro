@@ -35,6 +35,7 @@ Obs: Caso seu virtualenv tenha outro nome, altere para o nome correto no arquivo
 
 ## teste mermaid
 
+```mermaid
 graph LR 
     A{Do you know how to write great PHP code?} --> B[No]
     A --> C[Yes] 
@@ -43,3 +44,4 @@ graph LR
     D --> G[Yes] 
     G --> H(Please read it again) 
     F --> I(Please read it)
+```
